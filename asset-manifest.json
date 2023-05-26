@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.5b470c40.css",
-    "main.js": "/my-portfolio/static/js/main.bf35031d.js",
+    "main.css": "/my-portfolio/static/css/main.02177225.css",
+    "main.js": "/my-portfolio/static/js/main.575aa95c.js",
     "static/media/avatar.svg": "/my-portfolio/static/media/avatar.6acdd0f348322ba06d8275de5dd8ee85.svg",
     "static/media/site-bg.jpg": "/my-portfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
     "static/media/loopy_sleep.png": "/my-portfolio/static/media/loopy_sleep.1c87fb8a7c7361a4610a.png",
@@ -10,11 +10,11 @@
     "static/media/loopy_ya.jpg": "/my-portfolio/static/media/loopy_ya.4c27809165357de6ede9.jpg",
     "static/media/logo.svg": "/my-portfolio/static/media/logo.1ed738f9eb92c6c36939bc033726e44c.svg",
     "index.html": "/my-portfolio/index.html",
-    "main.5b470c40.css.map": "/my-portfolio/static/css/main.5b470c40.css.map",
-    "main.bf35031d.js.map": "/my-portfolio/static/js/main.bf35031d.js.map"
+    "main.02177225.css.map": "/my-portfolio/static/css/main.02177225.css.map",
+    "main.575aa95c.js.map": "/my-portfolio/static/js/main.575aa95c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b470c40.css",
-    "static/js/main.bf35031d.js"
+    "static/css/main.02177225.css",
+    "static/js/main.575aa95c.js"
   ]
 }
